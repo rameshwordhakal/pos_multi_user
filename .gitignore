@@ -1,4 +1,4 @@
-/__pycache__
-/models/__pycache__
-/tests/__pycache__
+/pos_multi_user/__pycache__
+/pos_multi_user/models/__pycache__
+/pos_multi_user/tests/__pycache__
 .vscode
