@@ -16,6 +16,7 @@
 
     'data': [
         'views/views.xml',
+        'views/assets.xml',
     ],
     'images': [
         'static/description/banner.png',
